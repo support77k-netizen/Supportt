@@ -1,0 +1,13 @@
+{
+  "id": "design-001",
+  "title": "زر بتدرج لوني بنفسجي",
+  "author": "اسمك",
+  "preview_url": "https://picsum.photos/400/300",
+  "downloads": 12,
+  "likes": 5,
+  "category": "BUTTONS",
+  "compose_code": "Button(\n    onClick = { },\n    colors = ButtonDefaults.buttonColors(containerColor = Color(0xFF6750A4))\n) {\n    Text(\"اضغط هنا\")\n}",
+  "xml_code": null,
+  "kotlin_code": null,
+  "zip_url": null
+}
